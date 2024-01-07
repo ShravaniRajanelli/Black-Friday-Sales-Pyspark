@@ -36,4 +36,5 @@ We extend our gratitude to Kaggle and the original data contributors for making 
 ## License
 This dataset is provided under the terms specified by Kaggle. Refer to Kaggle's licensing information for details.
 
+
 Happy analyzing and uncovering valuable insights from Black Friday sales data!
